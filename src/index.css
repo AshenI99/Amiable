@@ -1,0 +1,282 @@
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afT3GLRrX.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTzGLRrX.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTLGLQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afT3GLRrX.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTzGLRrX.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTLGLQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afT3GLRrX.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTzGLRrX.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTLGLQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afT3GLRrX.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTzGLRrX.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTLGLQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afT3GLRrX.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTzGLRrX.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTLGLQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afT3GLRrX.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTzGLRrX.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTLGLQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afT3GLRrX.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTzGLRrX.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(./fonts/7Auwp_0qiz-afTLGLQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+body {
+  margin: 0;
+  font-family: Muli;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media print
+{    
+    button{display: none !important;}
+    .print-doc{margin: 50px 30px;}
+}
+
+
+.homepage{height: 750px; background-image: url(./images/bg.png); background-size: 100%; z-index: 10;}
+.navbar{margin-top: 0px !important;height: 128px !important; background-image: url(./images/bg1.png);width: 100%;background-size: 120%; background-repeat: no-repeat;}
+.navbar button{font-size: 20px; border:2px solid white; box-shadow: 2px 1px 2px gray}
+
+.topic{
+  font-weight: 700;
+  font-size: 110px;
+  line-height: 243px;
+  text-align: center;
+  text-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  background: linear-gradient(179.97deg, #510B7C 48.72%, #C51683 60.61%);
+  background-clip: text;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+  color:transparent !important;
+}
+
+.dark-div{line-height: 37px; margin-top: 5px; background-color: #000; background: rgba(0,0,0,0.6);color: white; font-size: 26px; text-align: center;}
+
+.login, .about{height:528px;width: 100%; background-repeat: no-repeat; background-image: url(./images/bg2.jpg); background-size: 100%;}
+.login-form{margin-left: auto; margin-right: auto;padding-top: 75px; position: relative; top: 50px; width: 600px; height: 425px;background: rgba(255, 255, 255, 0.33);}
+.login-form div h3{color:white; font-size: 35px; font-weight: 400; margin-left: 90px;}
+
+.form-input{width: 70%;margin-left: auto; margin-right: auto;}
+.form-input input{background: rgba(42, 197, 226, 0.993962); text-indent: 5%;}
+
+.btn-login button{font-size: 20px; padding: 5px 10px; background-color: #091C51; color: #fff; margin-right: 90px; box-shadow: 2px 1px 2px gray}
+.btn-login button:hover{color: rgba(42, 197, 226, 0.993962);}
+
+.login-form .signup{background-color: rgba(255, 255, 255, 0.5);; height: 75px; margin-top: 65px; text-align: center;}
+.login-form .signup h6{font-size: 18px; margin-top: -5px; color: #085A70; cursor: pointer;}
+
+input[type=checkbox]{
+  -webkit-transform:scale(1.5);
+  -moz-transform:scale(1.5);
+  -ms-transform:scale(1.5);
+  margin-left: 0px;
+}
+
+.details-form{top: 100px; position: relative; background-color: rgba(255, 255, 255, 0.5);margin-left: auto; margin-right:auto; width: 600px; height:310px;}
+.details-input div h6{font-size: 22px; color: #091C51;}
+
+.btn-statement{text-align: center; padding-top: 80px;}
+.btn-statement button{margin-left: auto; background-color: #2AC5E2; font-size: 18px; font-weight: 600;}
+
+.container-fluid-new{
+  background: linear-gradient(89.44deg, #074363 0.76%, #072566 0.77%, #1B528B 22.43%, rgba(55, 135, 219, 0.944267) 42.03%, rgba(49, 189, 233, 0.884133) 63.18%, rgba(248, 252, 254, 0.78) 99.81%), #FFFFFF;
+  width: 102.2% !important;
+  height: 529px;
+  top: 0px;
+  margin-left: -15px !important;
+  overflow: hidden;
+}
+
+.transaction button{font-size: 19px; font-weight: 500; border-radius: 15px; background-color: #091C51 !important;}
+
+.financial-tables td:nth-child(1){
+  min-width: 400px !important;
+}
+.financial-tables td:nth-child(2), .financial-tables td:nth-child(3){
+  min-width: 200px !important;
+}
+.financial-tables td{line-height: 7px !important;height: 5px !important; border-width: 2px !important;}
+
+.clickable-div{z-index: 2; background-color: white;  border:1px solid #97999b; max-width: 46.7% !important;margin-right: 18px; padding-bottom: 5px; padding-top: 5px; box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.1); clear: left;}
+.clickable-div div{padding-left: 5px; margin-right: 10px; margin-left: -15px; width: 107.8%;}
+.clickable-div div:hover{cursor: pointer; background-color: #97999b;}
+
+.clickable-div{padding: 0px;}
+.alert{  background: linear-gradient(89.44deg, #074363 0.76%, #072566 0.77%, #1B528B 22.43%, rgba(55, 135, 219, 0.944267) 42.03%, rgba(49, 189, 233, 0.884133) 63.18%, rgba(248, 252, 254, 0.78) 99.81%), #FFFFFF;
+ color: white; margin: 8px 20px; width: 400px; padding: 5px !important; border: none !important;}
+
+.delete{font-size: 11px !important; padding: 3px 4px !important;}
+
+.bottom-bar1{background-color: #31BDE9; height: 48px; margin-top: -16px;}
+.bottom-bar2{background-color: #091C51; height: 48px; margin-top: -25px;}
+
+.about-div{margin-left: auto; margin-right: auto;padding-top: 45px; position: relative; top: 40px; width: 800px; height: 455px;background: rgba(255, 255, 255, 0.33);}
+
+.statement-tabs{padding:50px 100px 0px}
