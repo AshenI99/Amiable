@@ -2,9 +2,6 @@ import React, {useState, useRef} from 'react'
 import OutsideClickHandler from 'react-outside-click-handler';
 import { useReactToPrint } from 'react-to-print';
 
-import firebase from '../services/firebase'
-
-
 import TAccounts from './PandL'
 import SPF from './SPF'
 
@@ -80,30 +77,7 @@ const Interface =(props)=>{
 
 
 	const handleSubmitData=()=>{
-
 		setIsSubmit(true)
-		// var arr = '';
-		// var arr1= [];
-		// const transactions = finishedTransactions.map((obj)=> {return Object.assign({}, obj)});
-		// // firebase
-		// // 	.firestore()
-		// // 	.collection('sample')
-		// // 	.doc('a')
-		// // 	.set(Object.assign({}, finishedTransactions))
-
-		// firebase
-	 //      .firestore()
-	 //      .collection("sample")
-	 //      .doc('a')
-	 //      .get()
-	 //      	.then((doc)=>{
-	 //      		arr = doc.data()
-	 //      		Object.entries(arr).map((item)=>{
-	 //      			arr1.push(item[1])
-	 //      		})
-	 //      	})
-
-	 //      	setUpdatedData(arr1)
 	}
 
 
